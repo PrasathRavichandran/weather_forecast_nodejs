@@ -13,9 +13,10 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "dev": "nodemon src/app -e js,hbs"
+    "dev": "nodemon src/app -e js,hbs",
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
