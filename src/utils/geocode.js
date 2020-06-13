@@ -1,6 +1,6 @@
 const request = require("postman-request");
 
-const MapBoxApiKey = "pk.eyJ1IjoicHJhc2F0aHJhdmljaGFuZHJhbiIsImEiOiJja2F2NmcyZmswOHk4Mnh1OWUyZDU0YnM4In0.bsx1T_Zfp8XeNFJFT_aTCQ";
+const MapBoxApiKey = "/* your api key */";
 const MapBoxLimit = 1;
 
 const geocode = (address, callback) => {

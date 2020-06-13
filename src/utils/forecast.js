@@ -1,6 +1,6 @@
 const request = require("postman-request");
 
-const WeatherStackApiKey = "f8e98d1211da5b00ae2dbdd0b2365b7a";
+const WeatherStackApiKey = "/* your api key */";
 
 const forecast = (latitude, longitude, callback) => {
   request(
