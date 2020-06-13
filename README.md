@@ -17,9 +17,9 @@ This project is deployed in [Heroku](https://www.heroku.com/). Please visit (htt
 ## Concepts
 In this project I have used [Node.js(10.16.1)](https://nodejs.org/), [Express.js(4.17.1)](https://expressjs.com/), [Handlebars.js(4.1.1)](https://handlebarsjs.com/). I also integrated [Mapbox API](https://docs.mapbox.com/api/) for getting the latitude, longitude of the searched location and [Weatherstack API](https://weatherstack.com/documentation) for getting weather reports.
 ## Platforms
-This application is built under [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/). Then [postman](https://www.postman.com/) for testing API request & response and I used [VScode](https://code.visualstudio.com/) as an IDE.
+This application is built under [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/). The [postman](https://www.postman.com/) for testing API request & response and [VScode](https://code.visualstudio.com/) as an IDE.
 ## Development Server
-Open the terminal and navigate to the project folder. Run `npm i` to install all the available package from the node package manager for the project and run `npm run dev` in the terminal. The server is started listing to the port 3000, then navigate to the browser and type the url `http://localhost:3000` to view the application.
+Open the terminal and navigate to the project folder. Run `npm i` to install all the needed packages from the node package manager for the project and run `npm run dev` in the terminal. The server is started listing to the port 3000, then navigate to the browser and type the url `http://localhost:3000` to view the application.
 ## More Updates
 Follow me on [LinkedIn](https://www.linkedin.com/in/prasathravi) to get the latest update about features, code and more. Consider star the repo if you like it. 
 ## Thanks
